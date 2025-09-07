@@ -1,6 +1,6 @@
 # Vendor Automation App (POC).
 
-## 🚀 Project Description
+##  Project Description
  POC Vendor Automation App automates the management of vendor communications in Outlook safely:
 - Sends the Requirement for suppliers based on vendor Excel input.
 - Ensures unique supplier/vendor folders structure.
